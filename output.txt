@@ -1,0 +1,213 @@
+Enter filename to process
+> input.txt
+===============================
+President Name: George Washington
+Age Elected: 57
+State of Birth: Virginia
+Date of Birth: February 22, 1732
+----------------------------
+President Name: John Adams
+Age Elected: 62
+State of Birth: Massachusetts
+Date of Birth: October 30, 1735
+----------------------------
+President Name: Thomas Jefferson
+Age Elected: 58
+State of Birth: Virginia
+Date of Birth: April 13, 1743
+----------------------------
+President Name: James Madison
+Age Elected: 58
+State of Birth: Virginia
+Date of Birth: March 16, 1751
+----------------------------
+President Name: James Monroe
+Age Elected: 59
+State of Birth: Virginia
+Date of Birth: April 28, 1758
+----------------------------
+President Name: John Quincy Adams
+Age Elected: 58
+State of Birth: Massachusetts
+Date of Birth: July 11, 1767
+----------------------------
+President Name: Andrew Jackson
+Age Elected: 62
+State of Birth: South Carolina
+Date of Birth: March 15, 1767
+----------------------------
+President Name: Martin Van Buren
+Age Elected: 55
+State of Birth: New York
+Date of Birth: December 5, 1782
+----------------------------
+President Name: William Henry Harrison
+Age Elected: 68
+State of Birth: Virginia
+Date of Birth: February 9, 1773
+----------------------------
+President Name: John Tyler
+Age Elected: 51
+State of Birth: Virginia
+Date of Birth: March 29, 1790
+----------------------------
+President Name: James Knox Polk
+Age Elected: 50
+State of Birth: North Carolina
+Date of Birth: November 2, 1795
+----------------------------
+President Name: Zachary Taylor
+Age Elected: 65
+State of Birth: Virginia
+Date of Birth: November 24, 1784
+----------------------------
+President Name: Millard Fillmore
+Age Elected: 50
+State of Birth: New York
+Date of Birth: January 7, 1800
+----------------------------
+President Name: Franklin Pierce
+Age Elected: 49
+State of Birth: New Hampshire
+Date of Birth: November 23, 1804
+----------------------------
+President Name: James Buchanan
+Age Elected: 66
+State of Birth: Pennsylvania
+Date of Birth: April 23, 1791
+----------------------------
+President Name: Abraham Lincoln
+Age Elected: 52
+State of Birth: Kentucky
+Date of Birth: February 12, 1809
+----------------------------
+President Name: Andrew Johnson
+Age Elected: 57
+State of Birth: North Carolina
+Date of Birth: December 28, 1808
+----------------------------
+President Name: Hiram Ulysses Grant
+Age Elected: 47
+State of Birth: Ohio
+Date of Birth: April 27, 1822
+----------------------------
+President Name: Rutherford Birchard Hayes
+Age Elected: 55
+State of Birth: Ohio
+Date of Birth: October 4, 1822
+----------------------------
+President Name: James Abram Garfield
+Age Elected: 50
+State of Birth: Ohio
+Date of Birth: November 19, 1831
+----------------------------
+President Name: Chester Alan Arthur
+Age Elected: 52
+State of Birth: Vermont
+Date of Birth: October 5, 1829
+----------------------------
+President Name: Stephen Grover Cleveland
+Age Elected: 48
+State of Birth: New Jersey
+Date of Birth: March 18, 1837
+----------------------------
+President Name: William McKinley
+Age Elected: 54
+State of Birth: Ohio
+Date of Birth: January 29, 1843
+----------------------------
+President Name: Theodore Roosevelt
+Age Elected: 43
+State of Birth: New York
+Date of Birth: October 27, 1858
+----------------------------
+President Name: William Howard Taft
+Age Elected: 52
+State of Birth: Ohio
+Date of Birth: September 15, 1857
+----------------------------
+President Name: Warren Gamaliel Harding
+Age Elected: 56
+State of Birth: Ohio
+Date of Birth: November 2, 1865
+----------------------------
+President Name: John Calvin Coolidge
+Age Elected: 51
+State of Birth: Vermont
+Date of Birth: July 4, 1872
+----------------------------
+President Name: Herbert Clark Hoover
+Age Elected: 55
+State of Birth: Iowa
+Date of Birth: August 10, 1874
+----------------------------
+President Name: Franklin Delano Roosevelt
+Age Elected: 51
+State of Birth: New York
+Date of Birth: January 30, 1882
+----------------------------
+President Name: Harry S. Truman
+Age Elected: 61
+State of Birth: Missouri
+Date of Birth: May 8, 1884
+----------------------------
+President Name: Dwight David Eisenhower
+Age Elected: 63
+State of Birth: Texas
+Date of Birth: October 14, 1890
+----------------------------
+President Name: John Fitzgerald Kennedy
+Age Elected: 44
+State of Birth: Massachusetts
+Date of Birth: May 29, 1917
+----------------------------
+President Name: Lyndon Baines Johnson
+Age Elected: 55
+State of Birth: Texas
+Date of Birth: August 27, 1908
+----------------------------
+President Name: Richard Milhous Nixon
+Age Elected: 56
+State of Birth: California
+Date of Birth: January 9, 1913
+----------------------------
+President Name: Gerald Rudolph Ford
+Age Elected: 61
+State of Birth: Nebraska
+Date of Birth: July 14, 1913
+----------------------------
+President Name: James Earl Carter
+Age Elected: 53
+State of Birth: Georgia
+Date of Birth: October 1, 1924
+----------------------------
+President Name: Ronald Wilson Reagan
+Age Elected: 70
+State of Birth: Illinois
+Date of Birth: February 6, 1911
+----------------------------
+President Name: George Herbert Walker Bush
+Age Elected: 65
+State of Birth: Massachusetts
+Date of Birth: June 12, 1924
+----------------------------
+President Name: William Jefferson Clinton
+Age Elected: 47
+State of Birth: Arkansas
+Date of Birth: August 19, 1946
+----------------------------
+President Name: George Walker Bush
+Age Elected: 55
+State of Birth: Connecticut
+Date of Birth: July 6, 1946
+----------------------------
+President Name: Barack Hussein Obama
+Age Elected: 47
+State of Birth: Hawaii
+Date of Birth: August 4, 1961
+----------------------------
+President Name: Donald John Trump
+Age Elected: 70
+State of Birth: New York
+Date of Birth: June 14, 1946
+----------------------------

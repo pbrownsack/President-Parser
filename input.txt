@@ -1,0 +1,168 @@
+George::Washington:
+57
+Virginia
+2 22 1732
+John::Adams:
+62
+Massachusetts
+10 30 1735
+Thomas::Jefferson:
+58
+Virginia
+4 13 1743
+James::Madison:
+58
+Virginia
+3 16 1751
+James::Monroe:
+59
+Virginia
+4 28 1758
+John:Quincy:Adams:
+58
+Massachusetts
+7 11 1767
+Andrew::Jackson:
+62
+South Carolina
+3 15 1767
+Martin::Van Buren:
+55
+New York
+12 5 1782
+William:Henry:Harrison:
+68
+Virginia
+2 9 1773
+John::Tyler:
+51
+Virginia
+3 29 1790
+James:Knox:Polk:
+50
+North Carolina
+11 2 1795
+Zachary::Taylor:
+65
+Virginia
+11 24 1784
+Millard::Fillmore:
+50
+New York
+1. 7 1800
+Franklin::Pierce:
+49
+New Hampshire
+11 23 1804
+James::Buchanan:
+66
+Pennsylvania
+4 23 1791
+Abraham::Lincoln:
+52
+Kentucky
+2. 12 1809
+Andrew::Johnson:
+57
+North Carolina
+12 28 1808
+Hiram:Ulysses:Grant:
+47
+Ohio
+4 27 1822
+Rutherford:Birchard:Hayes:
+55
+Ohio
+10 4 1822
+James:Abram:Garfield:
+50
+Ohio
+11 19 1831
+Chester:Alan:Arthur:
+52
+Vermont
+10 5 1829
+Stephen:Grover:Cleveland:
+48
+New Jersey
+3. 18 1837
+William::McKinley:
+54
+Ohio
+1. 29 1843
+Theodore::Roosevelt:
+43
+New York
+10 27 1858
+William:Howard:Taft:
+52
+Ohio
+9 15 1857
+Warren:Gamaliel:Harding:
+56
+Ohio
+11 2 1865
+John:Calvin:Coolidge:
+51
+Vermont
+7 4 1872
+Herbert:Clark:Hoover:
+55
+Iowa
+8 10 1874
+Franklin:Delano:Roosevelt:
+51
+New York
+1. 30 1882
+Harry:S.:Truman:
+61
+Missouri
+5 8 1884
+Dwight:David:Eisenhower:
+63
+Texas
+10 14 1890
+John:Fitzgerald:Kennedy:
+44
+Massachusetts
+5 29 1917
+Lyndon:Baines:Johnson:
+55
+Texas
+8 27 1908
+Richard:Milhous:Nixon:
+56
+California
+1. 9 1913
+Gerald:Rudolph:Ford:
+61
+Nebraska
+7 14 1913
+James:Earl:Carter:
+53
+Georgia
+10 1 1924
+Ronald:Wilson:Reagan:
+70
+Illinois
+2. 6 1911
+George:Herbert Walker:Bush:
+65
+Massachusetts
+6 12 1924
+William:Jefferson:Clinton:
+47
+Arkansas
+8 19 1946
+George:Walker:Bush:
+55
+Connecticut
+7 6 1946
+Barack:Hussein:Obama:
+47
+Hawaii
+8 4 1961
+Donald:John:Trump:
+70
+New York
+6 14 1946
